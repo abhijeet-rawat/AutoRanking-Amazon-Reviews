@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09d9e06f-6689-4070-88e2-049a163b7904" name="Default" comment="" />
+    <list default="true" id="09d9e06f-6689-4070-88e2-049a163b7904" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/review-ranker/src/MyTable.js" afterPath="$PROJECT_DIR$/review-ranker/src/MyTable.js" />
+      <change beforePath="$PROJECT_DIR$/review-ranker/src/data.json" afterPath="$PROJECT_DIR$/review-ranker/src/data.json" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,7 +21,7 @@
       <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/review-ranker/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3165">
+            <state relative-caret-position="-1320">
               <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
@@ -29,8 +33,8 @@
       <file leaf-file-name="MyTable.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/review-ranker/src/MyTable.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="153" column="28" lean-forward="false" selection-start-line="153" selection-start-column="28" selection-end-line="153" selection-end-column="28" />
+            <state relative-caret-position="420">
+              <caret line="158" column="13" lean-forward="false" selection-start-line="158" selection-start-column="13" selection-end-line="158" selection-end-column="13" />
               <folding>
                 <element signature="e#0#37#0" expanded="true" />
               </folding>
@@ -84,7 +88,7 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/review-ranker/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="531" />
     <option name="y" value="2" />
     <option name="width" value="1400" />
@@ -120,12 +124,6 @@
               <item name="AutoRanking-Reviews" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutoRanking-Reviews" type="462c0819:PsiDirectoryNode" />
               <item name="review-ranker" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutoRanking-Reviews" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoRanking-Reviews" type="462c0819:PsiDirectoryNode" />
-              <item name="review-ranker" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AutoRanking-Reviews" type="b2602c69:ProjectViewProjectNode" />
@@ -171,16 +169,15 @@
       <option name="presentableId" value="Default" />
       <updated>1523110527228</updated>
       <workItem from="1523110528704" duration="1405000" />
-      <workItem from="1523112041859" duration="45339000" />
+      <workItem from="1523112041859" duration="47850000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46744000" />
+    <option name="totallyTimeSpent" value="49255000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
-    <editor active="true" />
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="7" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2515625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -190,7 +187,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33295584" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33295584" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -291,8 +288,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/review-ranker/src/data.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26859">
-          <caret line="0" column="224352" lean-forward="true" selection-start-line="0" selection-start-column="224352" selection-end-line="0" selection-end-column="224352" />
+        <state relative-caret-position="368">
+          <caret line="0" column="107293" lean-forward="true" selection-start-line="0" selection-start-column="107293" selection-end-line="0" selection-end-column="107293" />
           <folding />
         </state>
       </provider>
@@ -307,7 +304,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/review-ranker/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3165">
+        <state relative-caret-position="-1320">
           <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
@@ -317,8 +314,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/review-ranker/src/MyTable.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="153" column="28" lean-forward="false" selection-start-line="153" selection-start-column="28" selection-end-line="153" selection-end-column="28" />
+        <state relative-caret-position="420">
+          <caret line="158" column="13" lean-forward="false" selection-start-line="158" selection-start-column="13" selection-end-line="158" selection-end-column="13" />
           <folding>
             <element signature="e#0#37#0" expanded="true" />
           </folding>

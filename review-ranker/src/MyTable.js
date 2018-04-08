@@ -150,15 +150,23 @@ export class MyTable extends Component{
             let op= coeff_list[0]+coeff_list[1]*(text_length)+ coeff_list[2]*(char_count) + coeff_list[3]*(word_count)+
                       coeff_list[4]*(unique_word_count) + coeff_list[5]*(sent_count)+ coeff_list[6]*(ari)+ coeff_list[7]*(rstars) ;
 
-            alert('This is Predicted Helpfulness Index Value'+op);
+            alert('This is Predicted Helpfulness Index Value '+op);
             console.log(op);
+
+            let hi=0;
+            if(nextProps.modalData.upvotes===0) {
+                hi = 0;
+            }
+            else{
+               hi= nextProps.modalData.upvotes/(nextProps.modalData.upvotes+nextProps.modalData.downvotes);
+            }
 
             let obj={
                 rating: nextProps.modalData.rating,
                 upvotes:  nextProps.modalData.upvotes,
                 downvotes:nextProps.modalData.downvotes,
                 reviewtext: nextProps.modalData.reviewtext,
-                helpfulness:nextProps.modalData.upvotes/(nextProps.modalData.upvotes+nextProps.modalData.downvotes),
+                helpfulness: hi,
                // calculate this phelp index
                 phelpindex: op
             };
