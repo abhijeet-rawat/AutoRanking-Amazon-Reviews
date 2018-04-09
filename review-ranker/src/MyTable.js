@@ -179,7 +179,7 @@ export class MyTable extends Component{
 
             let rankednewdata=[];
 
-            console.log('New Length is    ',newdata.length);
+           // console.log('New Length is    ',newdata.length);
 
             for(let i=0;i<newdata.length;i++){
                 let obj={
@@ -193,6 +193,14 @@ export class MyTable extends Component{
                 };
                 rankednewdata.push(obj);
             }
+
+            let newreviewrank=0;
+            for(let i=0;i<rankednewdata.length;i++){
+                if(rankednewdata[i].reviewtext===reviewd){
+                    newreviewrank=rankednewdata[i].rank;
+                }
+            }
+            alert("The New Review is ranked at position "+ newreviewrank);
 
             this.setState({
                localData: rankednewdata
