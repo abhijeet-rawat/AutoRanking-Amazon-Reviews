@@ -26,6 +26,8 @@ Consider the example case:
 ## Dataset Collection
 ---------------------
 There is a dataset repository of amazon reviews from year 1996-2014. You can access the dataset repository <a href="http://jmcauley.ucsd.edu/data/amazon/">here</a> .
+The repository has small datasets for large datasets, please contact Julian McAuley (julian.mcauley@gmail.com) to obtain a link.
+Thanks to him for giving us the access.
 
 
 ## Presentation
