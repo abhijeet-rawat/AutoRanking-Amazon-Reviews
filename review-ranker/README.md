@@ -1,7 +1,7 @@
 # Review-Ranker
 It's a web based application for provide ranking to the reviews on the basis of review content.
 
-##what's the issue??
+## what's the issue??
 --------------------
 
 Online shopping is more convenient and efficient than shopping at a department store.
@@ -29,9 +29,16 @@ There is a dataset repository of amazon reviews from year 1996-2014. You can acc
 The repository has small datasets for large datasets, please contact Julian McAuley (julian.mcauley@gmail.com) to obtain a link.
 Thanks to him for giving us the access.
 
+## Machine Learning Models 
+---------------------
+The codes to machine learning models are in review-ranker/Machine Learning Codes folder
+
+
+## Review Ranker Front End
+---------------------
+The Codes to front end is in review-ranker/src
 
 ## Presentation
 ---------------------
 The link to the presentation is <a href="#">Here</a>.
-
 
